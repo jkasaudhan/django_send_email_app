@@ -1,0 +1,10 @@
+venv
+*.pyc
+staticfiles
+.env
+db.sqlite3
+getting-started/*
+.DS_Store
+.env
+launch.json 
+settings.json 
